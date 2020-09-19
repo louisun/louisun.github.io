@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Renzo</title>
-    <link>https://louisun.github.io/posts/</link>
-    <description>Recent content in Posts on Renzo</description>
+    <title>阅读 on Renzo</title>
+    <link>https://louisun.github.io/categories/%E9%98%85%E8%AF%BB/</link>
+    <description>Recent content in 阅读 on Renzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright Renzo</copyright>
     <lastBuildDate>Sat, 19 Sep 2020 17:25:05 +0800</lastBuildDate>
     
-	<atom:link href="https://louisun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://louisun.github.io/categories/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -67,16 +67,6 @@
 比起狗和蜥蜴的大脑，新皮质更擅长于把大脑的各个部分连接起来。整个新皮质就是一个大的连结皮质区，而动物大脑的各部分之间则是相对独立的。正是这个原因，人类有混合情感，可以同时对一个人爱恨交加，而动物就不是这样，它们的情感更加简单，也更加分明，因为像爱和恨这样的范畴在它们的大脑里是互相独立的。
 额叶在新皮质内部，就在额头里面，所有经过大脑的信息都要传送到这里，并得到综合处理。 尽管大的新皮质使我们有了“书本智慧”，但我们也为此付出了代价。额叶增大可能一方面会使人类大脑更易于遭受损伤，同时另一方面也更容易出现种种功能紊乱。我想也许这就是为什么动物在成长过程中很少会出现智能障碍。据估计，在美国智能障碍的发病率在 1%～3%，而动物身上这类问题的发病率似乎要低得多。也许我们人类不知道动物发生智能障碍会是什么样子，但我怀疑动物可能并不会轻易产生智能障碍，因为它们的额叶不够发达。
 无论问题是脑部受伤、智能障碍、机能老化，还是睡眠不足，人类最先失去的就是额叶的功能。更糟糕的是，大脑任何部位的受伤和中风都会最终导致额叶出现问题，即使额叶完好无损。</description>
-    </item>
-    
-    <item>
-      <title>初始化</title>
-      <link>https://louisun.github.io/posts/%E5%88%9D%E5%A7%8B%E5%8C%96/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://louisun.github.io/posts/%E5%88%9D%E5%A7%8B%E5%8C%96/</guid>
-      <description> 这件事也做完了。然后就没了下文。我无法抑制自己的失望心情：如此地有头无尾，乱七八糟。这就是我吗？
-  </description>
     </item>
     
   </channel>

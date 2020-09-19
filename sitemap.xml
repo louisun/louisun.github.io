@@ -3,93 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://louisun.github.io/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://louisun.github.io/categories/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/tags/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/categories/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <lastmod>2020-09-19T17:25:05+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://louisun.github.io/posts/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
+    <lastmod>2020-09-19T17:25:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://louisun.github.io/</loc>
+    <lastmod>2020-09-19T17:25:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://louisun.github.io/posts/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%AF%B4%E8%AF%9D/</loc>
+    <lastmod>2020-09-19T17:25:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://louisun.github.io/categories/%E9%98%85%E8%AF%BB/</loc>
+    <lastmod>2020-09-19T17:25:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://louisun.github.io/categories/life/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://louisun.github.io/posts/%E5%88%9D%E5%A7%8B%E5%8C%96/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://louisun.github.io/tags/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/tags/text/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/posts/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/tags/typography/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/posts/post-5/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/posts/post-1/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/tags/primer/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/categories/todo/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/tags/todo/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/posts/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/categories/story/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/posts/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://louisun.github.io/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url>
   
 </urlset>
